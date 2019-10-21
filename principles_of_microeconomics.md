@@ -6,7 +6,7 @@ Fifth Edition
 
 ## Chapter 1. Ten Principles of Economics
 
-To lay the foundation of this book, the author introduces ten principles of economics in the fist chapter, and further groups these principles into three topics: how people make decisions, how people interact with others and how the economy works as a whole.
+To lay the foundation of this book, the author introduces ten principles of economics in the fist chapter, and further groups these principles into three topics: how people make decisions, how people interact with others, and how the economy works as a whole.
 
 People make decisions because they are always facing trade offs: choosing something and give up other things. In the mind of people, the cost of something is usually evaluated as what you give up to get it. Rational people think values and costs at the margin, which defined as the relative values and costs given what you already have and pay. People's decisions are also affected by incentives. Little change of the environment, such as policies, may lead people to make opposite decisions.
 
