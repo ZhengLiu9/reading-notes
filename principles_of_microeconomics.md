@@ -16,4 +16,4 @@ On a larger scale, a nation's economy, such as the efficiency of producing goods
 
 ## Chapter 2. Thinking Like an Economist
 
-In chapter two, the author draws a big picture of economists. From one side, economists are scientists that use scientific approaches to describe and explain the economic world. From the other side, scientists are also policy makers that have great power to substantially affect a nation's economy. One interesting fact is that it is normal for economists to disagree with each other, due to their different scientific judgments, different points of values, and different perception of the real world.
+In chapter two, the author draws a big picture of economists. From one side, economists are researchers using scientific approaches to describe and explain the economic world. From the other side, economists are policy makers that have great power to substantially affect a nation's economy. One interesting fact is that it is normal for economists to disagree with each other, due to their different scientific judgments, different points of values, and different perceptions of the real world.
