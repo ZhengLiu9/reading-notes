@@ -13,3 +13,7 @@ People make decisions because they are always facing trade offs: choosing someth
 The economists believe all people participating in economic activities can benefit from it, and markets are a good way to guide economic activities in most cases. It is still under great debates whether governments are needed for markets, but sometimes it does promote equality and efficiency of markets. 
 
 On a larger scale, a nation's economy, such as the efficiency of producing goods and services from unit resource, determines the living quality of its people. This section also introduces two fundamental known facts: printing too much money leads to price rising (inflation), and inflation/unemployment is a short-term trade-off for the society. 
+
+## Chapter 2. Thinking Like an Economist
+
+In chapter two, the author draws a big picture of economists. From one side, economists are scientists that use scientific approaches to describe and explain the economic world. From the other side, scientists are also policy makers that have great power to substantially affect a nation's economy. One interesting fact is that it is normal for economists to disagree with each other, due to their different scientific judgments, different points of values, and different perception of the real world.
